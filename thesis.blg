@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: body/regu.aux
+A level-1 auxiliary file: body/introduction.aux
+A level-1 auxiliary file: body/FirstWork.aux
+A level-1 auxiliary file: body/SecondWork.aux
+A level-1 auxiliary file: back/conclusion.aux
+The style file: gbt7714-numerical.bst
+A level-1 auxiliary file: back/publications.aux
+A level-1 auxiliary file: back/acknowledgements.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 150 items from 100.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: reference.bib
+Warning--I didn't find a database entry for "yellow88"
+Warning--empty booktitle in orange111
+You've used 52 entries,
+            5265 wiz_defined-function locations,
+            1307 strings with 17049 characters,
+and the built_in function-call counts, 459598 in all, are:
+= -- 8883
+> -- 53816
+< -- 67493
++ -- 18789
+- -- 3485
+* -- 2534
+:= -- 63460
+add.period$ -- 155
+call.type$ -- 52
+change.case$ -- 390
+chr.to.int$ -- 16635
+cite$ -- 53
+duplicate$ -- 1386
+empty$ -- 3590
+format.name$ -- 1681
+if$ -- 119557
+int.to.chr$ -- 4
+int.to.str$ -- 53
+missing$ -- 0
+newline$ -- 299
+num.names$ -- 156
+pop$ -- 24378
+preamble$ -- 1
+purify$ -- 52
+quote$ -- 0
+skip$ -- 47668
+stack$ -- 0
+substring$ -- 21154
+swap$ -- 66
+text.length$ -- 1219
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 564
+warning$ -- 1
+while$ -- 1299
+width$ -- 0
+write$ -- 725
+(There were 2 warnings)

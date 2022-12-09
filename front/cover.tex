@@ -1,0 +1,89 @@
+% !Mode:: "TeX:UTF-8"
+
+\hitsetup{
+  %******************************
+  % 注意：
+  %   1. 配置里面不要出现空行
+  %   2. 不需要的配置信息可以删除
+  %******************************
+  %
+  %=====
+  % 秘级
+  %=====
+  statesecrets={公开},
+  % natclassifiedindex={TM301.2},
+  % intclassifiedindex={62-5},
+  natclassifiedindex={TP183},
+  intclassifiedindex={004.8},
+  %
+  %========= 
+  % 中文信息
+  %=========
+  % ctitleone={基于卫星图像序列的},%本科生封面使用
+  % ctitletwo={初生对流检测算法研究},%本科生封面使用
+  ctitlecover={缺失值场景下的\\多元时间序列异常检测方法},%放在封面中使用，自由断行
+  ctitle={基于可逆神经网络的无载体图像隐写方法},%放在原创性声明中使用
+  %csubtitle={一条副标题}, %一般情况没有，可以注释掉
+  cxueke={工程},
+  csubject={计算机技术},
+  caffil={哈尔滨工业大学（深圳）},
+  cauthor={曾子辉},
+  csupervisor={廖清教授},
+  %cassosupervisor={某某某教授}, % 副指导老师
+ % ccosupervisor={某某某教授}, % 联合指导老师
+  % 日期自动使用当前时间，若需指定按如下方式修改：
+  cdate={2023年1月},
+  % cstudentid={20S151085},
+  cstudenttype={专业学位论文}, %非全日制教育申请学位者
+  % cnumber={no9527}, %编号
+  % cpositionname={哈铁西站}, %博士后站名称
+  % cstartdate={3050年12月10日}, %到站日期
+  % cenddate={3090年12月10日}, %出站日期
+  %（同等学力人员）、（工程硕士）、（工商管理硕士）、
+  %（高级管理人员工商管理硕士）、（公共管理硕士）、（中职教师）、（高校教师）等
+  %
+  %
+  %=========
+  % 英文信息
+  %=========
+  etitle={Multi Time Series Anomaly Detection Model in Missing Value Scenario},
+  esubtitle={This is the sub title},
+  exueke={Engineering},
+  esubject={Computer Technology},
+  eaffil={Harbin Institute of Technology, Shenzhen},
+  eauthor={Zihui Zeng},
+  esupervisor={Prof. Qing Liao},
+  % eassosupervisor={Associate Professor Li Xutao},
+  % 日期自动生成，若需指定按如下方式修改：
+  edate={January, 2023},
+  % estudenttype={Master of Art},
+  %
+  % 关键词用“英文逗号”分割
+  ckeywords={异常检测, 神经网络, 缺失值场景, 注意力机制},
+  ekeywords={Anomaly detection, neural network, missing-value scene, attention mechanism},
+}
+
+\begin{cabstract}
+
+  时间序列异常检测是工业界中一个重要的研究领域。尤其随着近年来工业4.0概念的提出，越来越多的行业提倡数字化，智能化，这激增了海量的时间序列数据。时间序列异常检测吸引了越来越多的研究者的关注，好的异常检测方法能够给这些提供智能化的监控方案，帮助行业能够精准识别故障，以及提前预判风险，并以此降低企业风险与运营成本。
+  
+  近年来有诸多学者提出了非常多的多元时间序列异常检测的算法及模型。然而这些方法都是都是面向完整的时间序列数据进行异常检测任务，然而在真实时间中多元时间序列往往包含着大量的缺失值。例如在工业场景中常常因为数据采集不全，传感器损坏等诸多因素所导致时间序列中包含缺失值。故本文课题为缺失值场景下的多元时间序列异常检测，按照填充-检测和不填充-检测的两种思路对包含缺失值的多元时间序列异常检测任务进行了如下研究：
+
+  按照填充-检测的思路，本文首先提出了一种基于对抗生成网络的填充算法，并对填充后的多元时间序列进行异常检测。较好的解决缺失值场景下的多元时间序列异常检测任务。本方法通过与多个基线模型对比，在完整数据集上，本章F1分数超过了第二名的基线0.3\%在缺失30\%数据的场景下F1分数超过了第二名的基线3\%,在缺失50\%数据的场景下F1分数超过了第二名的基线5\%。证明了我们的算法在缺失值场景的有效性。
+
+  考虑到在填充-检测的解决方案中，模型在训练时需要同时包含缺失值的时间序列和不包含缺失值的时间序列进行学习。这对数据的要求较高，在现实应用中实现难度较大。填充-检测的思路方案依然不能完美的解决缺失值多元时间序列异常检测问题。故本文提出了一种不填充-检测思路的多元时间序列异常检测方案，其基于注意力机制对缺失值时间序列进行重新表征，将不完整的多元时间序列重新表征为完整的高维表征，进而通过对该表征进行异常检测，更鲁棒的解决缺失值场景下的异常检测任务。本方法在三个常用经典时间序列数据集上进行的实验表明，该方法在缺失值场景下对比传统时间序列异常检测方法效果更好。最后，本文通过消融实验验证了各模块的有效性。
+
+
+
+
+\end{cabstract}
+
+\begin{eabstract}
+  Time series anomaly detection is an important research field in industry. Especially with the introduction of the concept of Industry 4.0 in recent years, more and more industries advocate digitization and intelligentization, which has greatly increased the amount of time series data. Time series anomaly detection becomes more and more important, it can provide intelligent monitoring scheme for these industries, accurately identify faults and predict risks in advance.
+
+  In recent years, a number of scholars have proposed a number of multivariate time series anomaly detection algorithms and models. However, these methods are all oriented to complete time series data for anomaly detection tasks, and do not take into account the industrial scene because of incomplete data collection, time series anomaly detection task with missing values caused by sensor damage. In this paper, we study the anomaly detection of multivariate time series in the missing-value scenario, according to the two ways of filling-detection and non-filling-detection, as follows:
+  
+  According to the idea of fill-and-detect, this paper first proposes a fill algorithm based on antagonism generating network, and detects anomalies in the filled multivariate time series. This method can solve the problem of anomaly detection in multivariate time series under missing values. This method is compared with multiple baseline models, where the Chapter F1 score exceeds the second-place baseline by 0.3\% on the full data set and the F1 score exceeds the second-place baseline by 3\% in the case of missing 30\% data, the F1 score exceeded the second-place baseline by 5\% in the 50\% missing scenario. The effectiveness of our algorithm in the missing-value scenario is proved.
+  
+  Considering that in the fill-and-test solution, the training of the model needs to include the missing value time series and the artificially filled time series. This requires high data, and it is difficult to realize in the practical application. In this paper, a new method of anomaly detection for multivariate time series without filling-detection is proposed, which recharacterizes the time series with missing values based on the attention mechanism, the multivariate time series with missing values was recharacterized as high-dimensional representation without missing values, and the anomaly detection task in missing-value scenario was more robust. Experiments on three commonly used classical time series data sets show that the proposed method is more effective than traditional time series anomaly detection methods in the case of missing values. Finally, the experimental results show the effectiveness of each module.
+\end{eabstract}

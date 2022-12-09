@@ -1,0 +1,439 @@
+% !Mode:: "TeX:UTF-8"
+
+@article{2006Forecasting,
+  title={Nowcasting storm initiation and growth using GOES-8 and WSR-88D data},
+  author={Roberts, Rita D and Rutledge, Steven},
+  journal={Weather and Forecasting},
+  volume={18},
+  number={4},
+  pages={562--584},
+  year={2003}
+}
+
+@article{覃丹宇2014利用静止气象卫星监测初生对流的研究进展,
+  title={利用静止气象卫星监测初生对流的研究进展},
+  author={覃丹宇 and 方宗义},
+  journal={气象},
+  volume={40},
+  number={1},
+  pages={7--17},
+  year={2014}
+}
+
+@article{sun2019convective,
+  title={Convective Initiation Nowcasting Over China From Fengyun-4A Measurements Based on TV-L 1 Optical Flow and BP\_Adaboost Neural Network Algorithms},
+  author={Sun, Fenglin and Qin, Danyu and Min, Min and Li, Bo and Wang, Fu},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={12},
+  number={11},
+  pages={4284--4296},
+  year={2019},
+  publisher={IEEE}
+}
+
+@inproceedings{morel2000rapid,
+  title={The Rapid Developing Thunderstorms (RDT) product of the nowcasting SAF. Prototyping activities and quality assessment using GOES images},
+  author={Morel, C and S{\'e}n{\'e}si, S and Autones, F and Labatut, L},
+  booktitle={Proceedings of the 2000 Meteorological Satellite Data Users’ Conference},
+  pages={698--705},
+  year={2000}
+}
+
+@inproceedings{morel2002building,
+  title={Building upon SAF-NWC products: Use of the Rapid Developing Thunderstorms (RDT) product in M{\'e}t{\'e}o-France nowcasting tools},
+  author={Morel, C and S{\'e}n{\'e}si, S and Autones, F},
+  booktitle={Proceedings of the 2002 Meteorological Satellite Data Users’ Conference},
+  pages={248--255},
+  year={2002}
+}
+
+@article{vila2008forecast,
+  title={Forecast and Tracking the Evolution of Cloud Clusters (ForTraCC) using satellite infrared imagery: Methodology and validation},
+  author={Vila, Daniel Alejandro and Machado, Luiz Augusto Toledo and Laurent, Henri and Velasco, Ines},
+  journal={Weather and Forecasting},
+  volume={23},
+  number={2},
+  pages={233--245},
+  year={2008}
+}
+
+@article{carvalho2001satellite,
+  title={A satellite method to identify structural properties of mesoscale convective systems based on the maximum spatial correlation tracking technique (MASCOTTE)},
+  author={Carvalho, Leila MV and Jones, Charles},
+  journal={Journal of Applied Meteorology and Climatology},
+  volume={40},
+  number={10},
+  pages={1683--1701},
+  year={2001},
+  publisher={American Meteorological Society}
+}
+
+@article{garcia2011asynchronous,
+  title={Asynchronous particle filter for tracking using non-synchronous sensor networks},
+  author={Garc{\'\i}a-Fern{\'a}ndez, {\'A}ngel F and Grajal, Jes{\'u}s},
+  journal={Signal Processing},
+  volume={91},
+  number={10},
+  pages={2304--2313},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{方兆宝2004用改良的面积重叠法自动跟踪中尺度对流系统的试验研究,
+  title={用改良的面积重叠法自动跟踪中尺度对流系统的试验研究},
+  author={方兆宝 and 林珲 and 吴立新 and 江吉喜 and 黄签},
+  journal={大气科学},
+  volume={28},
+  number={4},
+  pages={634--640},
+  year={2004}
+}
+
+@article{刘延安2012fy,
+  title={FY-2 红外云图中强对流云团的短时自动预报算法},
+  author={刘延安 and 魏鸣 and 高炜 and 李南},
+  journal={遥感学报},
+  volume={16},
+  number={1},
+  pages={79--92},
+  year={2012}
+}
+
+@article{覃丹宇2010用滤波方法进行,
+  title={用滤波方法进行 M$\alpha$CS 云团形态差异的个例分析},
+  author={覃丹宇},
+  journal={大气科学},
+  number={1},
+  pages={154--162},
+  year={2010}
+}
+
+@article{liu2015new,
+  title={A new methodology for pixel-quantitative precipitation nowcasting using a pyramid Lucas Kanade optical flow approach},
+  author={Liu, Yu and Xi, Du-Gang and Li, Zhao-Liang and Hong, Yang},
+  journal={Journal of Hydrology},
+  volume={529},
+  pages={354--364},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@inproceedings{xingjian2015convolutional,
+  title={Convolutional LSTM network: A machine learning approach for precipitation nowcasting},
+  author={Xingjian, SHI and Chen, Zhourong and Wang, Hao and Yeung, Dit-Yan and Wong, Wai-Kin and Woo, Wang-chun},
+  booktitle={Advances in neural information processing systems},
+  pages={802--810},
+  year={2015}
+}
+
+@inproceedings{wang2017predrnn,
+  title={Predrnn: Recurrent neural networks for predictive learning using spatiotemporal lstms},
+  author={Wang, Yunbo and Long, Mingsheng and Wang, Jianmin and Gao, Zhifeng and Yu, Philip S},
+  booktitle={Proceedings of the 31st International Conference on Neural Information Processing Systems},
+  pages={879--888},
+  year={2017}
+}
+
+@article{shi2017deep,
+  title={Deep learning for precipitation nowcasting: A benchmark and a new model},
+  author={Shi, Xingjian and Gao, Zhihan and Lausen, Leonard and Wang, Hao and Yeung, Dit-Yan and Wong, Wai-kin and Woo, Wang-chun},
+  journal={arXiv preprint arXiv:1706.03458},
+  year={2017}
+}
+
+@inproceedings{wang2018predrnn++,
+  title={Predrnn++: Towards a resolution of the deep-in-time dilemma in spatiotemporal predictive learning},
+  author={Wang, Yunbo and Gao, Zhifeng and Long, Mingsheng and Wang, Jianmin and Philip, S Yu},
+  booktitle={International Conference on Machine Learning},
+  pages={5123--5132},
+  year={2018},
+  organization={PMLR}
+}
+
+@article{mecikalski2006forecasting,
+  title={Forecasting convective initiation by monitoring the evolution of moving cumulus in daytime GOES imagery},
+  author={Mecikalski, John R and Bedka, Kristopher M},
+  journal={Monthly Weather Review},
+  volume={134},
+  number={1},
+  pages={49--78},
+  year={2006}
+}
+
+@article{walker2012enhanced,
+  title={An enhanced geostationary satellite--based convective initiation algorithm for 0--2-h nowcasting with object tracking},
+  author={Walker, John R and MacKenzie Jr, Wayne M and Mecikalski, John R and Jewett, Christopher P},
+  journal={Journal of Applied Meteorology and Climatology},
+  volume={51},
+  number={11},
+  pages={1931--1949},
+  year={2012}
+}
+
+@article{jewett2013adjusting,
+  title={Adjusting thresholds of satellite-based convective initiation interest fields based on the cloud environment},
+  author={Jewett, Christopher P and Mecikalski, John R},
+  journal={Journal of Geophysical Research: Atmospheres},
+  volume={118},
+  number={22},
+  pages={12--649},
+  year={2013},
+  publisher={Wiley Online Library}
+}
+
+@article{mecikalski2015probabilistic,
+  title={Probabilistic 0--1-h convective initiation nowcasts that combine geostationary satellite observations and numerical weather prediction model data},
+  author={Mecikalski, John R and Williams, John K and Jewett, Christopher P and Ahijevych, David and LeRoy, Anita and Walker, John R},
+  journal={Journal of Applied Meteorology and Climatology},
+  volume={54},
+  number={5},
+  pages={1039--1059},
+  year={2015},
+  publisher={American Meteorological Society}
+}
+
+@article{郭巍2018基于葵花,
+  title={基于葵花 8 卫星的上海市夏季对流初生预报研究},
+  author={郭巍 and 崔林丽 and 顾问 and 王超 and 麻炳欣},
+  journal={气象},
+  volume={44},
+  number={9},
+  pages={1229--1236},
+  year={2018}
+}
+
+@article{李五生2014基于卫星资料的对流初生预报及效果评估,
+  title={基于卫星资料的对流初生预报及效果评估},
+  author={李五生 and 王洪庆 and 王玉 and 吴琼},
+  journal={北京大学学报: 自然科学版},
+  number={5},
+  pages={819--824},
+  year={2014}
+}
+
+@article{宋珍妮2014基于网格的,
+  title={基于网格的 FY2C 卫星对流初生预警},
+  author={宋珍妮},
+  journal={科技信息},
+  number={5},
+  pages={76--77},
+  year={2014}
+}
+
+@article{zhuge2018summertime,
+  title={Summertime convective initiation nowcasting over southeastern China based on Advanced Himawari Imager observations},
+  author={Zhuge, Xiaoyong and Zou, Xiaolei},
+  journal={Journal of the Meteorological Society of Japan. Ser. II},
+  year={2018},
+  publisher={Meteorological Society of Japan}
+}
+
+@article{han2019novel,
+  title={A novel framework of detecting convective initiation combining automated sampling, machine learning, and repeated model tuning from geostationary satellite data},
+  author={Han, Daehyeon and Lee, Juhyun and Im, Jungho and Sim, Seongmun and Lee, Sanggyun and Han, Hyangsun},
+  journal={Remote Sensing},
+  volume={11},
+  number={12},
+  pages={1454},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@article{sieglaff2011nowcasting,
+  title={Nowcasting convective storm initiation using satellite-based box-averaged cloud-top cooling and cloud-type trends},
+  author={Sieglaff, Justin M and Cronce, Lee M and Feltz, Wayne F and Bedka, Kristopher M and Pavolonis, Michael J and Heidinger, Andrew K},
+  journal={Journal of applied meteorology and climatology},
+  volume={50},
+  number={1},
+  pages={110--126},
+  year={2011}
+}
+
+@article{hui2012nowcasting,
+  title={Nowcasting convective storm initiation using the data of FY2C box-averaging method},
+  author={Hui, Xu},
+  journal={Electronic Design Engineering},
+  volume={20},
+  number={21},
+  pages={40--42},
+  year={2012}
+}
+
+@inproceedings{long2015fully,
+  title={Fully convolutional networks for semantic segmentation},
+  author={Long, Jonathan and Shelhamer, Evan and Darrell, Trevor},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={3431--3440},
+  year={2015}
+}
+
+@inproceedings{li2019attention,
+  title={Attention-guided unified network for panoptic segmentation},
+  author={Li, Yanwei and Chen, Xinze and Zhu, Zheng and Xie, Lingxi and Huang, Guan and Du, Dalong and Wang, Xingang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7026--7035},
+  year={2019}
+}
+
+@inproceedings{ronneberger2015u,
+  title={U-net: Convolutional networks for biomedical image segmentation},
+  author={Ronneberger, Olaf and Fischer, Philipp and Brox, Thomas},
+  booktitle={International Conference on Medical image computing and computer-assisted intervention},
+  pages={234--241},
+  year={2015},
+  organization={Springer}
+}
+
+@incollection{zhou2018unet++,
+  title={Unet++: A nested u-net architecture for medical image segmentation},
+  author={Zhou, Zongwei and Siddiquee, Md Mahfuzur Rahman and Tajbakhsh, Nima and Liang, Jianming},
+  booktitle={Deep learning in medical image analysis and multimodal learning for clinical decision support},
+  pages={3--11},
+  year={2018},
+  organization={Springer}
+}
+
+@article{chen2017deeplab,
+  title={Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs},
+  author={Chen, Liang-Chieh and Papandreou, George and Kokkinos, Iasonas and Murphy, Kevin and Yuille, Alan L},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={40},
+  number={4},
+  pages={834--848},
+  year={2017},
+  publisher={IEEE}
+}
+
+@article{yang2017introducing,
+  title={Introducing the new generation of Chinese geostationary weather satellites, Fengyun-4},
+  author={Yang, Jun and Zhang, Zhiqing and Wei, Caiying and Lu, Feng and Guo, Qiang},
+  journal={Bulletin of the American Meteorological Society},
+  volume={98},
+  number={8},
+  pages={1637--1658},
+  year={2017},
+  publisher={American Meteorological Society}
+}
+
+@article{bengio1994learning,
+  title={Learning long-term dependencies with gradient descent is difficult},
+  author={Bengio, Yoshua and Simard, Patrice and Frasconi, Paolo},
+  journal={IEEE transactions on neural networks},
+  volume={5},
+  number={2},
+  pages={157--166},
+  year={1994},
+  publisher={IEEE}
+}
+
+@article{cho2014learning,
+  title={Learning phrase representations using RNN encoder-decoder for statistical machine translation},
+  author={Cho, Kyunghyun and Van Merri{\"e}nboer, Bart and Gulcehre, Caglar and Bahdanau, Dzmitry and Bougares, Fethi and Schwenk, Holger and Bengio, Yoshua},
+  journal={arXiv preprint arXiv:1406.1078},
+  year={2014}
+}
+
+@article{lecun1989backpropagation,
+  title={Backpropagation applied to handwritten zip code recognition},
+  author={LeCun, Yann and Boser, Bernhard and Denker, John S and Henderson, Donnie and Howard, Richard E and Hubbard, Wayne and Jackel, Lawrence D},
+  journal={Neural computation},
+  volume={1},
+  number={4},
+  pages={541--551},
+  year={1989},
+  publisher={MIT Press}
+}
+
+@article{ji20123d,
+  title={3D convolutional neural networks for human action recognition},
+  author={Ji, Shuiwang and Xu, Wei and Yang, Ming and Yu, Kai},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={35},
+  number={1},
+  pages={221--231},
+  year={2012},
+  publisher={IEEE}
+}
+
+@inproceedings{pinheiro2014recurrent,
+  title={Recurrent convolutional neural networks for scene labeling},
+  author={Pinheiro, Pedro and Collobert, Ronan},
+  booktitle={International conference on machine learning},
+  pages={82--90},
+  year={2014},
+  organization={PMLR}
+}
+
+@inproceedings{liang2015recurrent,
+  title={Recurrent convolutional neural network for object recognition},
+  author={Liang, Ming and Hu, Xiaolin},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={3367--3375},
+  year={2015}
+}
+
+@inproceedings{hu2018squeeze,
+  title={Squeeze-and-excitation networks},
+  author={Hu, Jie and Shen, Li and Sun, Gang},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={7132--7141},
+  year={2018}
+}
+
+@inproceedings{woo2018cbam,
+  title={Cbam: Convolutional block attention module},
+  author={Woo, Sanghyun and Park, Jongchan and Lee, Joon-Young and Kweon, In So},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
+  pages={3--19},
+  year={2018}
+}
+
+@inproceedings{lin2017focal,
+  title={Focal loss for dense object detection},
+  author={Lin, Tsung-Yi and Goyal, Priya and Girshick, Ross and He, Kaiming and Doll{\'a}r, Piotr},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={2980--2988},
+  year={2017}
+}
+
+@inproceedings{lin2017feature,
+  title={Feature pyramid networks for object detection},
+  author={Lin, Tsung-Yi and Doll{\'a}r, Piotr and Girshick, Ross and He, Kaiming and Hariharan, Bharath and Belongie, Serge},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={2117--2125},
+  year={2017}
+}
+
+@inproceedings{huang2017densely,
+  title={Densely connected convolutional networks},
+  author={Huang, Gao and Liu, Zhuang and Van Der Maaten, Laurens and Weinberger, Kilian Q},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={4700--4708},
+  year={2017}
+}
+
+@inproceedings{zhang2021sa,
+  title={Sa-net: Shuffle attention for deep convolutional neural networks},
+  author={Zhang, Qing-Long and Yang, Yu-Bin},
+  booktitle={ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={2235--2239},
+  year={2021},
+  organization={IEEE}
+}
+
+@inproceedings{yang2020gated,
+  title={Gated channel transformation for visual recognition},
+  author={Yang, Zongxin and Zhu, Linchao and Wu, Yu and Yang, Yi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={11794--11803},
+  year={2020}
+}
+
+
+@inproceedings{wang2019ranet,
+  title={Ranet: Ranking attention network for fast video object segmentation},
+  author={Wang, Ziqin and Xu, Jun and Liu, Li and Zhu, Fan and Shao, Ling},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3978--3987},
+  year={2019}
+}

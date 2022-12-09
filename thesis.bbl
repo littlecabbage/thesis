@@ -1,0 +1,374 @@
+\begin{thebibliography}{52}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Li et~al.(2022)Li and Jung]{yellow1}
+LI G, JUNG J~J.
+\newblock Deep learning for anomaly detection in multivariate time series:
+  Approaches, applications, and challenges\allowbreak[J].
+\newblock Information Fusion, 2022.
+
+\bibitem[Paparrizos et~al.(2022)Paparrizos, Boniol, Palpanas, Tsay, Elmore, and
+  Franklin]{none5}
+PAPARRIZOS J, BONIOL P, PALPANAS T, et~al.
+\newblock Volume under the surface: a new accuracy evaluation measure for
+  time-series anomaly detection\allowbreak[J].
+\newblock Proceedings of the VLDB Endowment, 2022, 15\allowbreak (11):
+  2774-2787.
+
+\bibitem[Laptev et~al.(2015{\natexlab{a}})Laptev, Amizadeh, and Flint]{none4}
+LAPTEV N, AMIZADEH S, FLINT I.
+\newblock Generic and scalable framework for automated time-series anomaly
+  detection\allowbreak[C]//\allowbreak
+Proceedings of the 21th ACM SIGKDD international conference on knowledge
+  discovery and data mining.
+\newblock 2015{\natexlab{a}}: 1939-1947.
+
+\bibitem[Laptev et~al.(2015{\natexlab{b}})Laptev, Amizadeh, and Flint]{none3}
+LAPTEV N, AMIZADEH S, FLINT I.
+\newblock Generic and scalable framework for automated time-series anomaly
+  detection\allowbreak[C]//\allowbreak
+Proceedings of the 21th ACM SIGKDD international conference on knowledge
+  discovery and data mining.
+\newblock 2015{\natexlab{b}}: 1939-1947.
+
+\bibitem[Ren et~al.(2019)Ren, Xu, Wang, Yi, Huang, Kou, Xing, Yang, Tong, and
+  Zhang]{none2}
+REN H, XU B, WANG Y, et~al.
+\newblock Time-series anomaly detection service at
+  microsoft\allowbreak[C]//\allowbreak
+Proceedings of the 25th ACM SIGKDD international conference on knowledge
+  discovery \& data mining.
+\newblock 2019: 3009-3017.
+
+\bibitem[Minovski et~al.(2021)Minovski, {\AA}hlund, Mitra, and Cotanis]{none1}
+MINOVSKI D, {\AA}HLUND C, MITRA K, et~al.
+\newblock Anomaly detection for discovering performance degradation in cellular
+  iot services\allowbreak[C]//\allowbreak
+2021 IEEE 46th Conference on Local Computer Networks (LCN).
+\newblock IEEE, 2021: 99-106.
+
+\bibitem[Breunig et~al.(2000)Breunig, Kriegel, Ng, and Sander]{orange17}
+BREUNIG M~M, KRIEGEL H~P, NG R~T, et~al.
+\newblock Lof: Identifying density-based local
+  outlier\allowbreak[C]//\allowbreak
+Proceedings of the 2000 ACM SIGMOD international conference on Management of
+  data.
+\newblock 2000: 93-104.
+
+\bibitem[Liu et~al.(2012)Liu, Ting, and Zhou]{orange84}
+LIU F~T, TING K~M, ZHOU Z~H.
+\newblock Isolation-based anomaly detection\allowbreak[J].
+\newblock ACM Transactions on Knowledge Discovery from Data (TKDD), 2012,
+  6\allowbreak (1): 1-39.
+
+\bibitem[Campos et~al.(2016)Campos, Zimek, Sander, Campello, Micenkov{\'a},
+  Schubert, Assent, and Houle]{orange20}
+CAMPOS G~O, ZIMEK A, SANDER J, et~al.
+\newblock On the evaluation of unsupervised outlier detection: Measures,
+  datasets, and an empirical study\allowbreak[J].
+\newblock Data mining and knowledge discovery, 2016, 30\allowbreak (4):
+  891-927.
+
+\bibitem[Pang et~al.(2019)Pang, Shen, and van~den Hengel]{orange115}
+PANG G, SHEN C, VAN~DEN HENGEL A.
+\newblock Deep anomaly detection with deviation
+  networks\allowbreak[C]//\allowbreak
+Proceedings of the 25th ACM SIGKDD international conference on knowledge
+  discovery \& data mining.
+\newblock 2019: 353-362.
+
+\bibitem[Keller et~al.(2012)Keller, Muller, and Bohm]{orange70}
+KELLER F, MULLER E, BOHM K.
+\newblock Hics: High contrast subspaces for density-based outlier
+  ranking\allowbreak[C]//\allowbreak
+2012 IEEE 28th international conference on data engineering.
+\newblock IEEE, 2012: 1037-1048.
+
+\bibitem[Lazarevic et~al.(2005)Lazarevic and Kumar]{orange77}
+LAZAREVIC A, KUMAR V.
+\newblock Feature bagging for outlier detection\allowbreak[C]//\allowbreak
+Proceedings of the eleventh ACM SIGKDD international conference on Knowledge
+  discovery in data mining.
+\newblock 2005: 157-166.
+
+\bibitem[Pevn{\`y}(2016)]{orange123}
+PEVN{\`Y} T.
+\newblock Loda: Lightweight on-line detector of anomalies\allowbreak[J].
+\newblock Machine Learning, 2016, 102\allowbreak (2): 275-304.
+
+\bibitem[Azmandian et~al.(2012)Azmandian, Yilmazer, Dy, Aslam, and
+  Kaeli]{orange12}
+AZMANDIAN F, YILMAZER A, DY J~G, et~al.
+\newblock Gpu-accelerated feature selection for outlier detection using the
+  local kernel density ratio\allowbreak[C]//\allowbreak
+2012 IEEE 12th International Conference on Data Mining.
+\newblock IEEE, 2012: 51-60.
+
+\bibitem[Pang et~al.(2018)Pang, Cao, Chen, Lian, and Liu]{orange109}
+PANG G, CAO L, CHEN L, et~al.
+\newblock Sparse modeling-based sequential ensemble learning for effective
+  outlier detection in high-dimensional numeric data\allowbreak[C]//\allowbreak
+Proceedings of the AAAI Conference on Artificial Intelligence: volume~32.
+\newblock 2018.
+
+\bibitem[Pang et~al.(2017)Pang, Cao, Chen, and Liu]{orange111}
+PANG G, CAO L, CHEN L, et~al.
+\newblock Learning homophily couplings from non-iid data for joint feature
+  selection and noise-resilient outlier detection\allowbreak[C]//\allowbreak
+IJCAI, 2017.
+
+\bibitem[Cao(2015)]{orange22}
+CAO L.
+\newblock Coupling learning of complex interactions\allowbreak[J].
+\newblock Information Processing \& Management, 2015, 51\allowbreak (2):
+  167-186.
+
+\bibitem[Bl{\'a}zquez-Garc{\'\i}a et~al.(2021)Bl{\'a}zquez-Garc{\'\i}a, Conde,
+  Mori, and Lozano]{green10}
+BL{\'A}ZQUEZ-GARC{\'I}A A, CONDE A, MORI U, et~al.
+\newblock A review on outlier/anomaly detection in time series
+  data\allowbreak[J].
+\newblock ACM Computing Surveys (CSUR), 2021, 54\allowbreak (3): 1-33.
+
+\bibitem[Pang et~al.(2021)Pang, Shen, Cao, and Hengel]{green11}
+PANG G, SHEN C, CAO L, et~al.
+\newblock Deep learning for anomaly detection: a review\allowbreak[J].
+\newblock ACM Computing Surveys (CSUR), 2021, 54\allowbreak (2): 1-38.
+
+\bibitem[Kwon et~al.(2019)Kwon, Kim, Kim, Suh, Kim, and Kim]{green12}
+KWON D, KIM H, KIM J, et~al.
+\newblock A survey of deep learning-based network anomaly
+  detection\allowbreak[J].
+\newblock Cluster Computing, 2019, 22\allowbreak (1): 949-961.
+
+\bibitem[Bergman et~al.(2020)Bergman and Hoshen]{green13}
+BERGMAN L, HOSHEN Y.
+\newblock Classification-based anomaly detection for general
+  data\allowbreak[J].
+\newblock arXiv preprint arXiv:2005.02359, 2020.
+
+\bibitem[Nedelkoski et~al.(2020)Nedelkoski, Bogatinovski, Acker, Cardoso, and
+  Kao]{green14}
+NEDELKOSKI S, BOGATINOVSKI J, ACKER A, et~al.
+\newblock Self-attentive classification-based anomaly detection in unstructured
+  logs\allowbreak[C]//\allowbreak
+2020 IEEE International Conference on Data Mining (ICDM).
+\newblock IEEE, 2020: 1196-1201.
+
+\bibitem[Feuz et~al.(2014)Feuz, Cook, Rosasco, Robertson, and
+  Schmitter-Edgecombe]{green15}
+FEUZ K~D, COOK D~J, ROSASCO C, et~al.
+\newblock Automated detection of activity transitions for
+  prompting\allowbreak[J].
+\newblock IEEE transactions on human-machine systems, 2014, 45\allowbreak (5):
+  575-585.
+
+\bibitem[Reddy et~al.(2010)Reddy, Mun, Burke, Estrin, Hansen, and
+  Srivastava]{green16}
+REDDY S, MUN M, BURKE J, et~al.
+\newblock Using mobile phones to determine transportation modes\allowbreak[J].
+\newblock ACM Transactions on Sensor Networks (TOSN), 2010, 6\allowbreak (2):
+  1-27.
+
+\bibitem[韩东明\ 等(2018)韩东明, 郭方舟, 潘嘉铖, 郑文庭, and
+  陈为]{green18}
+韩东明, 郭方舟, 潘嘉铖, 等.
+\newblock 面向时序数据异常检测的可视分析综述\allowbreak[J].
+\newblock 计算机研究与发展, 2018, 55\allowbreak (9): 1843-1852.
+
+\bibitem[Shyu et~al.(2003)Shyu, Chen, Sarinnapakorn, and Chang]{yellow3}
+SHYU M~L, CHEN S~C, SARINNAPAKORN K, et~al.
+\newblock A novel anomaly detection scheme based on principal component
+  classifier\allowbreak[R].
+\newblock Miami Univ Coral Gables Fl Dept of Electrical and Computer
+  Engineering, 2003.
+
+\bibitem[Angiulli et~al.(2002)Angiulli and Pizzuti]{yellow4}
+ANGIULLI F, PIZZUTI C.
+\newblock Fast outlier detection in high dimensional
+  spaces\allowbreak[C]//\allowbreak
+European conference on principles of data mining and knowledge discovery.
+\newblock Springer, 2002: 15-27.
+
+\bibitem[Sch{\"o}lkopf et~al.(2001)Sch{\"o}lkopf, Platt, Shawe-Taylor, Smola,
+  and Williamson]{yellow6}
+SCH{\"O}LKOPF B, PLATT J~C, SHAWE-TAYLOR J, et~al.
+\newblock Estimating the support of a high-dimensional
+  distribution\allowbreak[J].
+\newblock Neural computation, 2001, 13\allowbreak (7): 1443-1471.
+
+\bibitem[Valipour(2015)]{sarima}
+VALIPOUR M.
+\newblock Long-term runoff study using sarima and arima models in the united
+  states\allowbreak[J].
+\newblock Meteorological Applications, 2015, 22\allowbreak (3): 592-598.
+
+\bibitem[Peter et~al.(2012)Peter and Silvia]{arimax}
+PETER {\v{D}}, SILVIA P.
+\newblock Arima vs. arimax--which approach is better to analyze and forecast
+  macroeconomic time series\allowbreak[C]//\allowbreak
+Proceedings of 30th international conference mathematical methods in economics:
+  volume~2.
+\newblock 2012: 136-140.
+
+\bibitem[Beder(1995)]{var}
+BEDER T~S.
+\newblock Var: Seductive but dangerous\allowbreak[J].
+\newblock Financial Analysts Journal, 1995, 51\allowbreak (5): 12-24.
+
+\bibitem[MacQueen(1967)]{yellow84}
+MACQUEEN J.
+\newblock Classification and analysis of multivariate
+  observations\allowbreak[C]//\allowbreak
+5th Berkeley Symp. Math. Statist. Probability.
+\newblock 1967: 281-297.
+
+\bibitem[Manevitz et~al.(2001)Manevitz and Yousef]{yellow85}
+MANEVITZ L~M, YOUSEF M.
+\newblock One-class svms for document classification\allowbreak[J].
+\newblock Journal of machine Learning research, 2001, 2\allowbreak (Dec):
+  139-154.
+
+\bibitem[Ester et~al.(1996)Ester, Kriegel, Sander, Xu, et~al.]{yellow87}
+ESTER M, KRIEGEL H~P, SANDER J, et~al.
+\newblock A density-based algorithm for discovering clusters in large spatial
+  databases with noise.\allowbreak[C]//\allowbreak
+kdd: volume~96.
+\newblock 1996: 226-231.
+
+\bibitem[Su et~al.(2019{\natexlab{a}})Su, Zhao, Niu, Liu, Sun, and
+  Pei]{lstm-ndt}
+SU Y, ZHAO Y, NIU C, et~al.
+\newblock Robust anomaly detection for multivariate time series through
+  stochastic recurrent neural network\allowbreak[C]//\allowbreak
+Proceedings of the 25th ACM SIGKDD international conference on knowledge
+  discovery \& data mining.
+\newblock 2019{\natexlab{a}}: 2828-2837.
+
+\bibitem[Su et~al.(2019{\natexlab{b}})Su, Zhao, Niu, Liu, Sun, and
+  Pei]{Omnianomaly}
+SU Y, ZHAO Y, NIU C, et~al.
+\newblock Robust anomaly detection for multivariate time series through
+  stochastic recurrent neural network\allowbreak[C]//\allowbreak
+Proceedings of the 25th ACM SIGKDD international conference on knowledge
+  discovery \& data mining.
+\newblock 2019{\natexlab{b}}: 2828-2837.
+
+\bibitem[Zong et~al.(2018)Zong, Song, Min, Cheng, Lumezanu, Cho, and
+  Chen]{dagmm}
+ZONG B, SONG Q, MIN M~R, et~al.
+\newblock Deep autoencoding gaussian mixture model for unsupervised anomaly
+  detection\allowbreak[C]//\allowbreak
+International conference on learning representations.
+\newblock 2018.
+
+\bibitem[Papamakarios et~al.(2021)Papamakarios, Nalisnick, Rezende, Mohamed,
+  and Lakshminarayanan]{ganf}
+PAPAMAKARIOS G, NALISNICK E~T, REZENDE D~J, et~al.
+\newblock Normalizing flows for probabilistic modeling and
+  inference.\allowbreak[J].
+\newblock J. Mach. Learn. Res., 2021, 22\allowbreak (57): 1-64.
+
+\bibitem[Leuenberger et~al.(2005)Leuenberger, Parge, Felsch, Fauth, and
+  Hessler]{gdn}
+LEUENBERGER F, PARGE A, FELSCH W, et~al.
+\newblock Gdn thin films: Bulk and local electronic and magnetic
+  properties\allowbreak[J].
+\newblock Physical Review B, 2005, 72\allowbreak (1): 014427.
+
+\bibitem[Zhao et~al.(2020)Zhao, Wang, Duan, Huang, Cao, Tong, Xu, Bai, Tong,
+  and Zhang]{mtad-gat}
+ZHAO H, WANG Y, DUAN J, et~al.
+\newblock Multivariate time-series anomaly detection via graph attention
+  network\allowbreak[C]//\allowbreak
+2020 IEEE International Conference on Data Mining (ICDM).
+\newblock IEEE, 2020: 841-850.
+
+\bibitem[Audibert et~al.(2020)Audibert, Michiardi, Guyard, Marti, and
+  Zuluaga]{usad}
+AUDIBERT J, MICHIARDI P, GUYARD F, et~al.
+\newblock Usad: Unsupervised anomaly detection on multivariate time
+  series\allowbreak[C]//\allowbreak
+Proceedings of the 26th ACM SIGKDD International Conference on Knowledge
+  Discovery \& Data Mining.
+\newblock 2020: 3395-3404.
+
+\bibitem[Hawkins(1980)]{hawkings}
+HAWKINS D~M.
+\newblock Identification of outliers: volume~11\allowbreak[M].
+\newblock Springer, 1980.
+
+\bibitem[Tuzlukov(2018)]{yellow23}
+TUZLUKOV V.
+\newblock Signal processing noise\allowbreak[M].
+\newblock CRC Press, 2018.
+
+\bibitem[Goodfellow et~al.(2014)Goodfellow, Shlens, and Szegedy]{yellow24}
+GOODFELLOW I~J, SHLENS J, SZEGEDY C.
+\newblock Explaining and harnessing adversarial examples\allowbreak[J].
+\newblock arXiv preprint arXiv:1412.6572, 2014.
+
+\bibitem[Creswell et~al.(2018)Creswell, White, Dumoulin, Arulkumaran, Sengupta,
+  and Bharath]{gan}
+CRESWELL A, WHITE T, DUMOULIN V, et~al.
+\newblock Generative adversarial networks: An overview\allowbreak[J].
+\newblock IEEE signal processing magazine, 2018, 35\allowbreak (1): 53-65.
+
+\bibitem[Li et~al.(2017)Li and She]{vae}
+LI X, SHE J.
+\newblock Collaborative variational autoencoder for recommender
+  systems\allowbreak[C]//\allowbreak
+Proceedings of the 23rd ACM SIGKDD international conference on knowledge
+  discovery and data mining.
+\newblock 2017: 305-314.
+
+\bibitem[Rezende et~al.(2015)Rezende and Mohamed]{nf}
+REZENDE D, MOHAMED S.
+\newblock Variational inference with normalizing
+  flows\allowbreak[C]//\allowbreak
+International conference on machine learning.
+\newblock PMLR, 2015: 1530-1538.
+
+\bibitem[Agcaoglu et~al.(2022)Agcaoglu, Silva, and Calhoun]{nice}
+AGCAOGLU O, SILVA R~F, CALHOUN V.
+\newblock Multimodal fusion of brain imaging data with joint non-linear
+  independent component analysis\allowbreak[C]//\allowbreak
+2022 IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop
+  (IVMSP).
+\newblock IEEE, 2022: 1-5.
+
+\bibitem[Papamakarios et~al.(2017)Papamakarios, Pavlakou, and Murray]{realnvp}
+PAPAMAKARIOS G, PAVLAKOU T, MURRAY I.
+\newblock Masked autoregressive flow for density estimation\allowbreak[J].
+\newblock Advances in neural information processing systems, 2017, 30.
+
+\bibitem[Kingma et~al.(2018)Kingma and Dhariwal]{glow}
+KINGMA D~P, DHARIWAL P.
+\newblock Glow: Generative flow with invertible 1x1 convolutions\allowbreak[J].
+\newblock Advances in neural information processing systems, 2018, 31.
+
+\bibitem[Goh et~al.(2016{\natexlab{a}})Goh, Adepu, Junejo, and Mathur]{msl}
+GOH J, ADEPU S, JUNEJO K~N, et~al.
+\newblock A dataset to support research in the design of secure water treatment
+  systems\allowbreak[C]//\allowbreak
+International conference on critical information infrastructures security.
+\newblock Springer, 2016{\natexlab{a}}: 88-99.
+
+\bibitem[Goh et~al.(2016{\natexlab{b}})Goh, Adepu, Junejo, and Mathur]{swat}
+GOH J, ADEPU S, JUNEJO K~N, et~al.
+\newblock A dataset to support research in the design of secure water treatment
+  systems\allowbreak[C]//\allowbreak
+International conference on critical information infrastructures security.
+\newblock Springer, 2016{\natexlab{b}}: 88-99.
+
+\end{thebibliography}
