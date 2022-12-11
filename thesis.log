@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.4.10)  10 DEC 2022 15:34
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.4.10)  11 DEC 2022 11:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1571,7 +1571,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box150
 \@float@everytoks=\toks79
 \@floatcapt=\box151
-) (./thesis.aux (./body/regu.aux) (./back/conclusion.aux) (./back/publications.aux) (./back/acknowledgements.aux))
+) (./thesis.aux (./body/regu.aux) (./body/introduction-draft.aux) (./body/FirstWork.aux) (./body/SecondWork.aux) (./back/publications.aux) (./back/acknowledgements.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 99.
@@ -1882,14 +1882,14 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 ]
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.045pt on input line 102.
- [3] (./thesis.toc)
+ [3] (./thesis.toc [4
+
+
+])
 \tf@toc=\write8
 \openout8 = `thesis.toc'.
 
- [4
-
-
-]
+ [5]
 \openout2 = `body/regu.aux'.
 
  (./body/regu.tex
@@ -1934,30 +1934,168 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 7.0pt on input line 65.
 [6] [7]) [8]
-\openout2 = `back/conclusion.aux'.
+\openout2 = `body/introduction-draft.aux'.
 
- (./back/conclusion.tex) [9
+ (./body/introduction-draft.tex
+第2章
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.0pt on input line 17.
+Package hyperref Info: bookmark level for unknown equation defaults to 0 on input line 18.
+[9
 
 
 
 
 
+]
+File: figures//chapter2/untsano.jpg Graphic file (type bmp)
+<figures//chapter2/untsano.jpg>
+ [10]
+File: figures//chapter2/mtsano.jpg Graphic file (type bmp)
+<figures//chapter2/mtsano.jpg>
+ [11] [12]
+Missing character: There is no ε ("3B5) in font ntx-Regular-tlf-t1!
+ [13]
+Missing character: There is no 。 ("3002) in font ntx-Regular-tlf-ot1!
+ [14]
+File: figures//chapter1/GDN.jpg Graphic file (type bmp)
+<figures//chapter1/GDN.jpg>
+File: figures//chapter1/GANF.jpg Graphic file (type bmp)
+<figures//chapter1/GANF.jpg>
+ [15]
+File: figures//chapter1/gta.jpg Graphic file (type bmp)
+<figures//chapter1/gta.jpg>
+ [16] [17]
+Missing character: There is no α ("3B1) in font ntx-Regular-tlf-t1!
+Missing character: There is no β ("3B2) in font ntx-Regular-tlf-t1!
+File: figures//chapter2/usad-overview.jpg Graphic file (type bmp)
+<figures//chapter2/usad-overview.jpg>
+File: figures//chapter1/mad-gan.jpg Graphic file (type bmp)
+<figures//chapter1/mad-gan.jpg>
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 7.0pt on input line 209.
 
-] (./thesis.bbl [10
+
+Package natbib Warning: Citation `mad-gan' on page 18 undefined on input line 209.
+
+[18]) [19] [20]
+\openout2 = `body/FirstWork.aux'.
+
+ (./body/FirstWork.tex
+第3章
+File: figures//chapter5/overview.pdf Graphic file (type pdf)
+<use figures//chapter5/overview.pdf>
+
+LaTeX Warning: Reference `first-model-overviw' on page 21 undefined on input line 27.
+
+[21
+
+
+
+
+
+]
+File: figures//chapter5/GRUI.pdf Graphic file (type pdf)
+<use figures//chapter5/GRUI.pdf>
+
+Underfull \hbox (badness 2460) in paragraph at lines 59--60
+[]\TU/FandolSong-Regular(0)/m/n/12.045 为 了 适 当 地 了 解 原 始 不 完 全 时 间 序 列 数 据 集 的 分 布 和 特 征，|  并 且 由 于
+ []
+
+[22]
+Underfull \hbox (badness 4096) in paragraph at lines 103--106
+$\OML/ntxmi/b/it/12.045 ^^V$ \TU/FandolSong-Regular(0)/m/n/12.045 是 更 新 门，| $\OML/ntxmi/b/it/12.045 r$ \TU/FandolSong-Regular(0)/m/n/12.045 是 复 位 门，| $[]$ 是 候 选 隐 状 态，| $\OML/ntxmi/m/it/12.045 ^^[$ \TU/FandolSong-Regular(0)/m/n/12.045 是 \T1/ntxtlf/m/n/12.045 sig-moid \TU/FandolSong-Regular(0)/m/n/12.045 激 活 函 数，|
+ []
+
+[23] [24]
+Missing character: There is no λ ("3BB) in font ntx-Regular-tlf-t1!
+ [25] [26]
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.53937pt on input line 252.
+ [27]) [28]
+\openout2 = `body/SecondWork.aux'.
+
+ (./body/SecondWork.tex
+第4章
+[29
+
+
+
+
+
+]
+File: figures//chapter3/missing.png Graphic file (type bmp)
+<figures//chapter3/missing.png>
+File: figures//chapter3/compare1.png Graphic file (type bmp)
+<figures//chapter3/compare1.png>
+ [30]
+File: figures//chapter3/overview.png Graphic file (type bmp)
+<figures//chapter3/overview.png>
+ [31]
+File: figures//chapter3/time1.png Graphic file (type bmp)
+<figures//chapter3/time1.png>
+Missing character: There is no 倠 (U+5020) in font [FandolSong-Regular.otf]/OT:language=dflt;!
+ [32]
+File: figures//chapter3/time2.png Graphic file (type bmp)
+<figures//chapter3/time2.png>
+File: figures//chapter3/mask.png Graphic file (type bmp)
+<figures//chapter3/mask.png>
+ [33]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+[]\TU/FandolSong-Regular(0)/m/n/12.045 第 四 步，|  我 们 利 用 一 个 线 性 层 $\OML/ntxmi/m/it/12.045 linear[]$ \TU/FandolSong-Regular(0)/m/n/12.045 将 上 一 步 得 到 的
+ []
+
+File: figures//chapter3/nf2.png Graphic file (type bmp)
+<figures//chapter3/nf2.png>
+File: figures//chapter3/nf1.png Graphic file (type bmp)
+<figures//chapter3/nf1.png>
+[34] [35] [36]
+File: figures//chapter4/confusematrix.png Graphic file (type bmp)
+<figures//chapter4/confusematrix.png>
+ [37]
+File: figures//chapter4/swat-compare.png Graphic file (type bmp)
+<figures//chapter4/swat-compare.png>
+ [38]
+File: figures//chapter4/wadi-compare.png Graphic file (type bmp)
+<figures//chapter4/wadi-compare.png>
+File: figures//chapter4/smd-comapre.png Graphic file (type bmp)
+<figures//chapter4/smd-comapre.png>
+ [39] [40]
+Overfull \hbox (22.24306pt too wide) in paragraph at lines 321--332
+ [][] 
+ []
+
+
+Overfull \hbox (14.04344pt too wide) in paragraph at lines 340--351
+ [][] 
+ []
+
+
+Overfull \hbox (27.51274pt too wide) in paragraph at lines 359--370
+ [][] 
+ []
+
+[41]) [42] (./thesis.bbl [43
 
 
 \FN@pp@footnotehinttrue 
 
 
 
-] [11] [12]) [13]
+
+] [44] [45]
+Underfull \hbox (badness 1082) in paragraph at lines 337--341
+[]\T1/ntxtlf/m/n/12.045 TULI S, CASALE G, JEN-NINGS N R.  Tranad: Deep trans-former net-
+ []
+
+[46]) [47]
 \openout2 = `back/publications.aux'.
 
- (./back/publications.tex) [14
+ (./back/publications.tex) [48
 
 
 
-] [15
+] [49
 
 
 \FN@pp@footnotehinttrue 
@@ -1967,7 +2105,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 ]
 \openout2 = `back/acknowledgements.aux'.
 
- (./back/acknowledgements.tex) [16
+ (./back/acknowledgements.tex) [50
 
 
 
@@ -1977,25 +2115,31 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 
 
 
+Package natbib Warning: There were undefined citations.
+
+
 Package glossaries Warning: No \printglossary or \printglossaries found. 
 (Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
-(./thesis.aux (./body/regu.aux) (./back/conclusion.aux) (./back/publications.aux) (./back/acknowledgements.aux))
+(./thesis.aux (./body/regu.aux) (./body/introduction-draft.aux) (./body/FirstWork.aux) (./body/SecondWork.aux) (./back/publications.aux) (./back/acknowledgements.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.47188pt have occurred.
 
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 3B0BE04A8DE3B3F6C7DBC653D1202838;2855.
+(rerunfilecheck)             Checksum: DA0A460D8D1C2F95B98EE5C72B265AE1;9320.
  ) 
 Here is how much of TeX's memory you used:
- 42430 strings out of 476919
- 847174 string characters out of 5821840
- 1226520 words of memory out of 5000000
- 61539 multiletter control sequences out of 15000+600000
- 527112 words of font info for 206 fonts, out of 8000000 for 9000
+ 42772 strings out of 476919
+ 862859 string characters out of 5821840
+ 1242362 words of memory out of 5000000
+ 61838 multiletter control sequences out of 15000+600000
+ 535515 words of font info for 209 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 117i,11n,118p,2579b,1059s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 117i,12n,118p,2579b,1082s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (23 pages).
+Output written on thesis.pdf (58 pages).

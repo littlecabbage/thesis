@@ -1,4 +1,4 @@
-\begin{thebibliography}{39}
+\begin{thebibliography}{49}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax\else
@@ -231,13 +231,14 @@ KWON D, KIM H, KIM J, et~al.
   detection\allowbreak[J].
 \newblock Cluster Computing, 2019, 22\allowbreak (1): 949-961.
 
-\bibitem[Su et~al.(2019)Su, Zhao, Niu, Liu, Sun, and Pei]{lstm-ndt}
+\bibitem[Su et~al.(2019{\natexlab{a}})Su, Zhao, Niu, Liu, Sun, and
+  Pei]{lstm-ndt}
 SU Y, ZHAO Y, NIU C, et~al.
 \newblock Robust anomaly detection for multivariate time series through
   stochastic recurrent neural network\allowbreak[C]//\allowbreak
 Proceedings of the 25th ACM SIGKDD international conference on knowledge
   discovery \& data mining.
-\newblock 2019: 2828-2837.
+\newblock 2019{\natexlab{a}}: 2828-2837.
 
 \bibitem[Leuenberger et~al.(2005)Leuenberger, Parge, Felsch, Fauth, and
   Hessler]{gdn}
@@ -284,5 +285,72 @@ GOODGE A, HOOI B, NG S~K, et~al.
   impact.\allowbreak[C]//\allowbreak
 IJCAI.
 \newblock 2020: 1244-1250.
+
+\bibitem[Hawkins(1980)]{hawkings}
+HAWKINS D~M.
+\newblock Identification of outliers: volume~11\allowbreak[M].
+\newblock Springer, 1980.
+
+\bibitem[Li et~al.(2021)Li, Zhao, Han, Su, Jiao, Wen, and Pei]{aiops2022}
+LI Z, ZHAO Y, HAN J, et~al.
+\newblock Multivariate time series anomaly detection and interpretation using
+  hierarchical inter-metric and temporal embedding\allowbreak[C]//\allowbreak
+Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data
+  Mining.
+\newblock 2021: 3220-3230.
+
+\bibitem[Ye et~al.(2011)Ye and Keogh]{shapelet}
+YE L, KEOGH E.
+\newblock Time series shapelets: a novel technique that allows accurate,
+  interpretable and fast classification\allowbreak[J].
+\newblock Data mining and knowledge discovery, 2011, 22\allowbreak (1):
+  149-182.
+
+\bibitem[Su et~al.(2019{\natexlab{b}})Su, Zhao, Niu, Liu, Sun, and
+  Pei]{Omnianomaly}
+SU Y, ZHAO Y, NIU C, et~al.
+\newblock Robust anomaly detection for multivariate time series through
+  stochastic recurrent neural network\allowbreak[C]//\allowbreak
+Proceedings of the 25th ACM SIGKDD international conference on knowledge
+  discovery \& data mining.
+\newblock 2019{\natexlab{b}}: 2828-2837.
+
+\bibitem[Papamakarios et~al.(2017)Papamakarios, Pavlakou, and Murray]{realnvp}
+PAPAMAKARIOS G, PAVLAKOU T, MURRAY I.
+\newblock Masked autoregressive flow for density estimation\allowbreak[J].
+\newblock Advances in neural information processing systems, 2017, 30.
+
+\bibitem[Papamakarios et~al.(2021)Papamakarios, Nalisnick, Rezende, Mohamed,
+  and Lakshminarayanan]{ganf}
+PAPAMAKARIOS G, NALISNICK E~T, REZENDE D~J, et~al.
+\newblock Normalizing flows for probabilistic modeling and
+  inference.\allowbreak[J].
+\newblock J. Mach. Learn. Res., 2021, 22\allowbreak (57): 1-64.
+
+\bibitem[Chen et~al.(2021)Chen, Chen, Zhang, Yuan, and Cheng]{gat}
+CHEN Z, CHEN D, ZHANG X, et~al.
+\newblock Learning graph structures with transformer for multivariate time
+  series anomaly detection in iot\allowbreak[J].
+\newblock IEEE Internet of Things Journal, 2021.
+
+\bibitem[Tuli et~al.(2022)Tuli, Casale, and Jennings]{tranad}
+TULI S, CASALE G, JENNINGS N~R.
+\newblock Tranad: Deep transformer networks for anomaly detection in
+  multivariate time series data\allowbreak[J].
+\newblock arXiv preprint arXiv:2201.07284, 2022.
+
+\bibitem[Goh et~al.(2016{\natexlab{a}})Goh, Adepu, Junejo, and Mathur]{msl}
+GOH J, ADEPU S, JUNEJO K~N, et~al.
+\newblock A dataset to support research in the design of secure water treatment
+  systems\allowbreak[C]//\allowbreak
+International conference on critical information infrastructures security.
+\newblock Springer, 2016{\natexlab{a}}: 88-99.
+
+\bibitem[Goh et~al.(2016{\natexlab{b}})Goh, Adepu, Junejo, and Mathur]{swat}
+GOH J, ADEPU S, JUNEJO K~N, et~al.
+\newblock A dataset to support research in the design of secure water treatment
+  systems\allowbreak[C]//\allowbreak
+International conference on critical information infrastructures security.
+\newblock Springer, 2016{\natexlab{b}}: 88-99.
 
 \end{thebibliography}

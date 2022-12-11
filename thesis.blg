@@ -2,7 +2,9 @@ This is BibTeX, Version 0.99d (TeX Live 2021)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: body/regu.aux
-A level-1 auxiliary file: back/conclusion.aux
+A level-1 auxiliary file: body/introduction-draft.aux
+A level-1 auxiliary file: body/FirstWork.aux
+A level-1 auxiliary file: body/SecondWork.aux
 The style file: gbt7714-numerical.bst
 A level-1 auxiliary file: back/publications.aux
 A level-1 auxiliary file: back/acknowledgements.aux
@@ -15,46 +17,47 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: reference.bib
+Warning--I didn't find a database entry for "mad-gan"
 Warning--empty booktitle in orange111
-You've used 39 entries,
+You've used 49 entries,
             5265 wiz_defined-function locations,
-            1244 strings with 14936 characters,
-and the built_in function-call counts, 339145 in all, are:
-= -- 6715
-> -- 39561
-< -- 49590
-+ -- 13865
-- -- 2607
-* -- 1962
-:= -- 46949
-add.period$ -- 116
-call.type$ -- 39
-change.case$ -- 292
-chr.to.int$ -- 12235
-cite$ -- 40
-duplicate$ -- 1049
-empty$ -- 2719
-format.name$ -- 1280
-if$ -- 88151
-int.to.chr$ -- 3
-int.to.str$ -- 40
+            1287 strings with 16535 characters,
+and the built_in function-call counts, 432932 in all, are:
+= -- 8399
+> -- 50656
+< -- 63539
++ -- 17718
+- -- 3266
+* -- 2448
+:= -- 59865
+add.period$ -- 146
+call.type$ -- 49
+change.case$ -- 372
+chr.to.int$ -- 15666
+cite$ -- 50
+duplicate$ -- 1317
+empty$ -- 3379
+format.name$ -- 1618
+if$ -- 112546
+int.to.chr$ -- 5
+int.to.str$ -- 50
 missing$ -- 0
-newline$ -- 228
-num.names$ -- 117
-pop$ -- 17529
+newline$ -- 282
+num.names$ -- 147
+pop$ -- 22690
 preamble$ -- 1
-purify$ -- 39
+purify$ -- 49
 quote$ -- 0
-skip$ -- 35380
+skip$ -- 45055
 stack$ -- 0
-substring$ -- 15690
-swap$ -- 51
-text.length$ -- 928
+substring$ -- 19923
+swap$ -- 67
+text.length$ -- 1169
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 425
+type$ -- 531
 warning$ -- 1
-while$ -- 992
+while$ -- 1244
 width$ -- 0
-write$ -- 551
-(There was 1 warning)
+write$ -- 684
+(There were 2 warnings)
